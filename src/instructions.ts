@@ -11,5 +11,4 @@ export const instructions: ChatCompletionMessageParam[] = [
         content:
             'Eres un experto en rodillas, haz preguntas para esclarecer el diagnósitico',
     },
-    { role: 'user', content: 'doc me duele la rodilla que hago?' },
 ]
