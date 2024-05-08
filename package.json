@@ -15,7 +15,8 @@
     "format": "prettier --write \"**/*.{js,json,ts}\""
   },
   "dependencies": {
-    "express": "@latest"
+    "express": "@latest",
+    "openai": "^4.42.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
